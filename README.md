@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maricela Portillo Gomez</h1>
-<h3 align="center"> I am a small programmer and computer scientist, I live in El Salvador, I am the founder and creator of the TecnologíaMujer website. I have carried out programming projects for small entrepreneurs, and positioning them, from a very young age I became interested in the world of computing, becoming the best student in this area. and having perfect grades 10/10, then I got interested in web programming, and java. I am currently studying computer systems engineering at the university. I do all this since I was a child, I like to learn, I am constantly learning. Some of the projects that you will see here are created by a young dreamer from 13 to 21 years old, that is, by myself. Now you will have an idea of ​​how I program at 24 years old..</h3>
+<h3 align="center"> I am a small programmer and computer scientist, ..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gomez19047&label=Profile%20views&color=0e75b6&style=flat" alt="gomez19047" /> </p>
 
